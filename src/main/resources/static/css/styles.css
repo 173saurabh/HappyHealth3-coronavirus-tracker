@@ -1,0 +1,46 @@
+.project_title
+{
+    color:white;
+}
+.total_cases{
+    color:red;
+}
+.cases_title{
+    color:black;
+    font-weight: 20px;
+    font-size: 20px;
+}
+.cases_today{
+    color:red;
+}
+.total_cases_table{
+    color:red;
+}
+table.table.corona_data_table {
+    background-color: white;
+}
+.tracking_title{
+    text-align: center;
+}
+.tracking_title_font1{
+    color:turquoise;
+}
+.tracking_title_font2{
+    color:pink;
+    font-style:italic;
+    font-family: cursive;
+}
+.date{
+    font-family: cursive;
+    text-align: left; 
+    margin-left: 10px;
+    
+}
+#date{
+    border:none;
+    border-bottom: 1px solid turquoise;
+}
+.feelings{
+    text-align: right;
+    margin-right: 25px;
+}
